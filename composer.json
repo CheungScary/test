@@ -1,0 +1,10 @@
+{
+    "name": "mytest/mytest",
+    "authors": [
+        {
+            "name": "zhangjiannan",
+            "email": "zhang_00172@163.com"
+        }
+    ],
+    "require": {}
+}
